@@ -74,7 +74,7 @@
    
 
   TreeSet vs HashSet  
-  How many ways to implement multi-thread  
+  How many ways to implement thread  
   Log: duplicate key violates unique constrain  
 
   LinkedList vs HashTable  
