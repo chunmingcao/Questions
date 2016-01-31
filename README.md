@@ -73,16 +73,16 @@
    deposit
    
 
-TreeSet vs HashSet
-How many ways to implement multi-thread
-Log: duplicate key violates unique constrain
+  TreeSet vs HashSet
+  How many ways to implement multi-thread
+  Log: duplicate key violates unique constrain
 
-LinkedList vs HashTable
-Http Code: 200, 201, 400, No authorization
-final, finally, finalized
-String mutable or immuatable
+  LinkedList vs HashTable
+  Http Code: 200, 201, 400, No authorization
+  final, finally, finalized
+  String mutable or immuatable
 
-Algorithm:
-Search a string in a text.
-Transform a Sorted Array to Sorted Balance Tree. [2, 5, 9, 11, 20, 25, 29]
+## Algorithm:  
+  Search a string in a text.  
+  Transform a Sorted Array to Sorted Balance Tree. [2, 5, 9, 11, 20, 25, 29]
 
