@@ -60,14 +60,17 @@
       }
   }
   
-  ## How to keep a program keep running with minimun resource?
+## How to keep a program keep running with minimun resource?
   
     sychronized(this){
       this.wait();
     }
   
-  ## RESTful service trasaction
+## RESTful service trasaction
   
    debtAccountService
+   withraw
+   deposit
+   
    
    
