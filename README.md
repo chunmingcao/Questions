@@ -81,8 +81,48 @@
   Http Code: 200, 201, 400, No authorization  
   final, finally, finalized  
   String mutable or immuatable  
+  Algorithom: transfer a sorted array to a sorted balanced tree  
 
 ## Algorithm:  
   Search a string in a text.  
   Transform a Sorted Array to Sorted Balance Tree. [2, 5, 9, 11, 20, 25, 29]  
+
+# 2/2/2016 Capital One  
+
+## Project you are most proud of. Dig into the detail of that project.  
+
+## REST /persons/id/addresses  Add a new address, use POST or PUT  
+
+## Database the user table become huge. How to improve the performence.   -> Split the Database?   
+## Search any content of the database.    Elastic search.    Sole   
+
+## SQL vs NOSQL, MongoDB vs Coxxxx  
+
+## Two phase of transaction commission   
+
+## REST PUT, DELETE all possible return code.  
+
+## TWO user update the same records at the same time.  
+
+## JPA HIBERNATE MANY TO MANY  
+
+## What is Dead Lock? How to avoid Dead Lock.   
+
+## Two-digit Lock vs Sephermore?  
+
+## Difference of Concurrency and Synchronous   
+
+## HashMap: what if the array is full, what if one list is very long and other lists are very short?    
+
+## Garbage Collection   
+
+## Hibernate   N +1 problem  
+
+## Spring: How the valicatoin annotation is triggered?  
+
+## Algorthom: the shortest path in a square.  
+
+## Priority tree  
+
+
 
