@@ -122,7 +122,7 @@
 
 #### Algorthom: the shortest path in a square.  
 
-#### Priority tree  
+#### Priority Queue    
 
 
 
