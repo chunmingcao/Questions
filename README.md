@@ -89,36 +89,36 @@
 
 # 2/2/2016 Capital One  
 
-## Project you are most proud of. Dig into the detail of that project.  
+#### Project you are most proud of. Dig into the detail of that project.  
 
-## REST /persons/id/addresses  Add a new address, use POST or PUT  
+#### REST /persons/id/addresses  Add a new address, use POST or PUT  
 
-## Database the user table become huge. How to improve the performence.   -> Split the Database?   
-## Search any content of the database.    Elastic search.    Sole   
+#### Database the user table become huge. How to improve the performence.   -> Split the Database?   
+#### Search any content of the database.    Elastic search.    Sole   
 
-## SQL vs NOSQL, MongoDB vs Coxxxx  
+#### SQL vs NOSQL, MongoDB vs Coxxxx  
 
-## Two phase of transaction commission   
+#### Two phase of transaction commission   
 
-## REST PUT, DELETE all possible return code.  
+#### REST PUT, DELETE all possible return code.  
 
-## TWO user update the same records at the same time.  
+#### TWO user update the same records at the same time.  
 
-## JPA HIBERNATE MANY TO MANY  
+#### JPA HIBERNATE MANY TO MANY  
 
-## What is Dead Lock? How to avoid Dead Lock.   
+#### What is Dead Lock? How to avoid Dead Lock.   
 
-## Two-digit Lock vs Sephermore?  
+#### Two-digit Lock vs Sephermore?  
 
-## Difference of Concurrency and Synchronous   
+#### Difference of Concurrency and Synchronous   
 
-## HashMap: what if the array is full, what if one list is very long and other lists are very short?    
+#### HashMap: what if the array is full, what if one list is very long and other lists are very short?    
 
-## Garbage Collection   
+#### Garbage Collection   
 
-## Hibernate   N +1 problem  
+#### Hibernate   N +1 problem  
 
-## Spring: How the valicatoin annotation is triggered?  
+#### Spring: How the valicatoin annotation is triggered?  
 
 #### Algorthom: the shortest path in a square.  
 
