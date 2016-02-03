@@ -120,9 +120,9 @@
 
 ## Spring: How the valicatoin annotation is triggered?  
 
-## Algorthom: the shortest path in a square.  
+#### Algorthom: the shortest path in a square.  
 
-## Priority tree  
+#### Priority tree  
 
 
 
