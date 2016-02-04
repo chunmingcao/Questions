@@ -139,6 +139,15 @@ A lot more compact specifically when you want operations on consecutive differen
 -Xmx -Xms
 
 #### String pool. String s = "xxx"; String s2 = new String("xxxx"); How to make s2 to the pool?  
+The string pool is the JVM's particular implementation of the concept of string interning:
+
+In computer science, string interning is a method of storing only one copy of each distinct string value, which must be immutable. Interning strings makes some string processing tasks more time- or space-efficient at the cost of requiring more time when the string is created or interned. The distinct values are stored in a string intern pool.
+Basically, a string intern pool allows a runtime to save memory by preserving immutable strings in a pool so that areas of the application can reuse instances of common strings instead of creating multiple instances of it.
+
+As an interesting side note, string interning is an example of the flyweight design pattern:
+
+Flyweight is a software design pattern. A flyweight is an object that minimizes memory use by sharing as much data as possible with other similar objects; it is a way to use objects in large numbers when a simple repeated representation would use an unacceptable amount of memory.
+
 #### Singleton vs Static class, which class in JDK implements Singleton. Singleton clone. Can Singleton be inherited?
 ####
 
