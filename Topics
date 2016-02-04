@@ -1,0 +1,5 @@
+## The difference between InputStream and InputStreamReader when reading multi-byte characters  
+An InputStream reads raw octet (8 bit) data.
+An InputStreamReader then will transform data from some encoding into UTF-16.
+The character encoding API in Java contains the algorithms to perform this transformation.   
+
