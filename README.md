@@ -125,4 +125,21 @@
 #### Priority Queue    
 
 
+# 2/3/2016 Infosys  
+#### in CSS, image sprites  
+#### html local storage  
+#### Jquery: two different version used in the same html page. how?  
+#### JQuery Chaining. the benifits.  
+Selector is only evaluated once for multiple operations. Better performance, smaller code.
+Selector result can be used for multiple methods without having to assign it to a local variable. More compact code.
+Multiple methods can more compactly be put on one line.
+A lot more compact specifically when you want operations on consecutive different results such as $(this).next().find("span.title").closest(".section").hide();. Without chaining, you would need four different local variables where this needs none.   
+
+#### JVM How to specify max Heap? Can it be change?  
+-Xmx -Xms
+
+#### String pool. String s = "xxx"; String s2 = new String("xxxx"); How to make s2 to the pool?  
+#### Singleton vs Static class, which class in JDK implements Singleton. Singleton clone. Can Singleton be inherited?
+####
+
 
