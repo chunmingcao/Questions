@@ -87,7 +87,7 @@
   Search a string in a text.  
   Transform a Sorted Array to Sorted Balance Tree. [2, 5, 9, 11, 20, 25, 29]  
 
-# 2/2/2016 Capital One  
+# With Capital One  
 
 #### Project you are most proud of. Dig into the detail of that project.  
 
