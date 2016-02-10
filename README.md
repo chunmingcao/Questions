@@ -151,4 +151,17 @@ Flyweight is a software design pattern. A flyweight is an object that minimizes 
 #### Singleton vs Static class, which class in JDK implements Singleton. Singleton clone. Can Singleton be inherited?
 ####
 
+## With LinkedIn
+### Event bubbling
+### Get vs Post
+### ajax request different domain
 
+## With Windriver
+### Difference between MongoDB, CouchDB, Cossandra
+### What is the role of profiler in MongoDB
+### AngularJS communication bertween modules (3 ways)
+### AngularJS digest
+### AngularJS test
+
+## With Adara
+### Spring Filter vs Interceptor
