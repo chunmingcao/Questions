@@ -125,7 +125,7 @@
 #### Priority Queue    
 
 
-# 2/3/2016 Infosys  
+## with Infosys  
 #### in CSS, image sprites  
 #### html local storage  
 #### Jquery: two different version used in the same html page. how?  
