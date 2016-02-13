@@ -165,3 +165,20 @@ Flyweight is a software design pattern. A flyweight is an object that minimizes 
 
 ## With Adara
 ### Spring Filter vs Interceptor
+
+
+## With Merck  
+### what is 'use strict'  
+### why use mongoose?
+### what is functional programming
+### how to detect if an object is an Array?
+### how to empty an Array?
+### closure, why closure?
+### this
+### hoisting
+### javascript OOP
+### what is asynchronous
+### call back err model
+### anonomous function
+### function namespace
+### 
