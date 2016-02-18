@@ -1,4 +1,5 @@
 /*
+1/17/2016 with expedia
 
 Given a list of data in the form [Employee_Name, Manager_Name, Employee_Role;Employee_Name, Manager_Name, Employee_Role;…]. Print out the hierarchical relationship map.
 
