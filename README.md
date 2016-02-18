@@ -182,3 +182,17 @@ Flyweight is a software design pattern. A flyweight is an object that minimizes 
 ### anonomous function
 ### function namespace
 ### 
+
+## Paypal
+#### AngularJS Promise $
+#### 
+
+
+## With Expedia  
+#### String, StringBuilder, StringBuffer
+#### HashMap, HashTable  
+
+## With Infosys
+#### Multithreading, three threads with the priority, which will be executed first. What situation use threadpool
+#### Hibernate envers
+
